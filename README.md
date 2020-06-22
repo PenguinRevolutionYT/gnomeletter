@@ -1,4 +1,4 @@
-# gnomeletter
+# Open Letter to the GNOME Foundation
 Open Letter to the GNOME Foundation
 
 This is an Open letter to the GNOME foundation. It is distributed in the Open Document, MS Word, and PDF formats.
